@@ -26,8 +26,8 @@ Follow the on-screen instructions to input stock symbols, date ranges, and the o
 
 Click the "Run" button to fetch the stock data and save it as CSV and interactive HTML files in the specified output folder.
 
-Contributing
-We welcome contributions to improve and expand the functionality of Stock Price Tracker. To contribute, please:
+# Contributing
+Everyone is welcome to contribute to improve and expand the functionality of Stock Price Tracker. To contribute, please:
 
 Fork the repository.
 Create a new branch with a descriptive name.
