@@ -1,13 +1,14 @@
-Stock Price Tracker
+# Stock Price Tracker
 Stock Price Tracker is a desktop application that enables users to fetch, analyze, and visually represent stock market data. Developed using Python, yfinance, and Plotly, the application provides a user-friendly graphical interface built with tkinter.
 
-Features
+# Features
 Fetch stock data for multiple stock symbols, input as comma-separated values.
 Define custom date ranges for stock data retrieval.
 Automatically save stock data as CSV files and interactive visualizations as HTML files.
 Display stock market data, including moving averages and relative strength index (RSI) indicators.
 Simple navigation through a well-organized GUI with intuitive controls.
-Installation
+
+# Installation
 Ensure you have Python 3.x installed on your system. You can download it from the official Python website.
 
 Clone this repository or download it as a ZIP file.
